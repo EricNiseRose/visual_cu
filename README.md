@@ -10,9 +10,4 @@
 
 Весь код и данные находятся в `index.html`. Внешние библиотеки и сборка не нужны.
 
-## Публикация через GitHub Pages
-
-После загрузки файлов в ветку `main` откройте Settings → Pages.
-Выберите Deploy from a branch, ветку `main`, папку `/ (root)` и сохраните.
-
 Адрес после публикации: https://EricNiseRose.github.io/visual_cu/
